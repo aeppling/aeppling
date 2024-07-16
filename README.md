@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<br/>
-<br/>
-
-👋 Hi there! I'm a programming student based in Lille, France. 🇫🇷 
+## 👋 Hi there! I'm a programming student based in Lille, France. 🇫🇷 
 <br/><br/>
 I've been learning and developing applications, games, and web solutions for 6 years, both at school and on my own.
 
@@ -28,8 +23,6 @@ Check Exogeny website : https://exogeny.tech/
 
 I'm currently focusing on developing my cloud and AI skills, <br/>
 but I'm always on the lookout for opportunities to work on interesting projects. 🔭🌐
-<br/>
-<br/>
 <br/>
 <br/>
 
