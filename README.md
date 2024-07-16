@@ -4,7 +4,7 @@
 <br/>
 
 👋 Hi there! I'm a programming student based in Lille, France. 🇫🇷 
-<br/>
+<br/><br/>
 I've been learning and developing applications, games, and web solutions for 6 years, both at school and on my own.
 
 <br/>
