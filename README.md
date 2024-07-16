@@ -21,6 +21,9 @@ Kexa project : https://github.com/4urcloud/Kexa
 <br/>
 
 As a freelancer, I've already delivered web solutions for individuals and start-ups. 🌟
+<br/>
+Check Exogeny website : https://exogeny.tech/
+<br/>
 
 I'm currently focusing on developing my cloud and AI skills, <br/>
 but I'm always on the lookout for opportunities to work on interesting projects. 🔭🌐
