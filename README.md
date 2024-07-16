@@ -27,13 +27,16 @@ but I'm always on the lookout for opportunities to work on interesting projects.
 <br/>
 
 ### Global Github stats
+<br/>
 <img src="https://myreadme.vercel.app/api/embed/aeppling?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ### A little snake eating my contributions grid
+<br/>
 <img src="https://raw.githubusercontent.com/aeppling/aeppling/output/github-contribution-grid-snake.svg">
 
 
 ### Couple random trophies so it look like i'm really good at programming
+<br/>
 <img src="https://github-profile-trophy.vercel.app/?username=aeppling&theme=juicyfresh&no-bg=true" />
 
 <!--
