@@ -1,14 +1,21 @@
 ## Hi there 👋
 
+<br/>
+<br/>
+
 👋 Hi there! I'm a programming student based in Lille, France. 🇫🇷 I've been learning and developing applications, games, and web solutions for 6 years, both at school and on my own.
 💻 I'm currently doing a work-study program at 4urcloud (company) and SUPINFO (school), where I'm helping to develop Cloud solutions, including the Kexa project. ☁️🚀
+<br/>
 
-[https://github.com/](dqdz)
-[https://github.com/4urcloud/Kexa](22)
+4urcloud : https://github.com/4urcloud
+Kexa project : https://github.com/4urcloud/Kexa
+<br/>
 
 As a freelancer, I've already delivered web solutions for individuals and start-ups. 🌟
 
 I'm currently focusing on developing my cloud and AI skills, but I'm always on the lookout for opportunities to work on interesting projects. 🔭🌐
+<br/>
+<br/>
 
 ### Global Github stats
 <img src="https://myreadme.vercel.app/api/embed/aeppling?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
