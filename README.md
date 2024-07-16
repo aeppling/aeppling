@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Global Github stats
-<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/aeppling?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ### A little snake eating my contributions grid
 <img src="https://raw.githubusercontent.com/aeppling/aeppling/output/github-contribution-grid-snake.svg">
