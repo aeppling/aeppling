@@ -5,12 +5,13 @@
 
 ### A little snake eating my contributions grid
 <img src="https://raw.githubusercontent.com/aeppling/aeppling/output/github-contribution-grid-snake.svg">
-<!--
-**aeppling/aeppling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ### Couple random trophies so it look like i'm really good at programming
 <img src="https://github-profile-trophy.vercel.app/?username=aeppling&theme=juicyfresh&no-bg=true" />
 
+<!--
+**aeppling/aeppling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
