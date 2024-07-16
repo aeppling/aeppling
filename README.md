@@ -8,6 +8,7 @@ I've been learning and developing applications, games, and web solutions for 6 y
 💻 I'm currently doing a work-study program at 4urcloud (company) and SUPINFO (school), where I'm helping to develop Cloud solutions, including the Kexa project. ☁️🚀
 <br/>
 <br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aeppling&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 4urcloud : https://github.com/4urcloud
 <br/>
