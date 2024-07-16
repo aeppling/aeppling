@@ -8,6 +8,9 @@
 <!--
 **aeppling/aeppling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### Couple random trophies so it look like i'm really good at programming
+<img src="https://github-profile-trophy.vercel.app/?username=aeppling&theme=juicyfresh&no-bg=true" />
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
