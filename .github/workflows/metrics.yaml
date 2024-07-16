@@ -16,6 +16,6 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: yankay
+          user: aeppling
           template: classic
           base: header, activity, community
