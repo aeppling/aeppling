@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Alt text](https://raw.githubusercontent.com/aeppling/aeppling/output/github-contribution-grid-snake.svg)
+### A little snake sneaking through my contributions grid
 <img src="https://raw.githubusercontent.com/aeppling/aeppling/output/github-contribution-grid-snake.svg">
 <!--
 **aeppling/aeppling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
