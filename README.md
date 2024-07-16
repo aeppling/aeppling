@@ -31,7 +31,6 @@ but I'm always on the lookout for opportunities to work on interesting projects.
 <img src="https://myreadme.vercel.app/api/embed/aeppling?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ### A little snake eating my contributions grid
-<br/>
 <img src="https://raw.githubusercontent.com/aeppling/aeppling/output/github-contribution-grid-snake.svg">
 
 
