@@ -3,7 +3,13 @@
 <br/>
 <br/>
 
-👋 Hi there! I'm a programming student based in Lille, France. 🇫🇷 I've been learning and developing applications, games, and web solutions for 6 years, both at school and on my own.
+👋 Hi there! I'm a programming student based in Lille, France. 🇫🇷 
+<br/>
+I've been learning and developing applications, games, and web solutions for 6 years, both at school and on my own.
+
+<br/>
+
+
 💻 I'm currently doing a work-study program at 4urcloud (company) and SUPINFO (school), where I'm helping to develop Cloud solutions, including the Kexa project. ☁️🚀
 <br/>
 
