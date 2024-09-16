@@ -10,7 +10,7 @@ I've been learning and developing applications, games, and web solutions for 5 y
 
 4urcloud : https://github.com/4urcloud
 <br/>
-Kexa project : https://github.com/4urcloud/Kexa
+Kexa project : https://github.com/kexa-io/Kexa
 <br/>
 4urcloud website i made : https://www.4urcloud.eu/#/
 <br/>
