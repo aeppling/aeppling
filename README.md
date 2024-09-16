@@ -20,6 +20,7 @@ As a freelancer, I've already delivered web solutions for individuals and start-
 Check Exogeny website : https://exogeny.tech/
 <br/>
 <br/>
+A little library project i made for school : https://suplibrary.netlify.app/
 
 I'm currently focusing on developing my cloud and AI skills, <br/>
 but I'm always on the lookout for opportunities to work on interesting projects. 🔭🌐
