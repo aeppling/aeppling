@@ -21,7 +21,7 @@ Check Exogeny website : https://exogeny.tech/
 <br/>
 <br/>
 
-I also building side projects, check out my personal website for more projects & experiences informations : https://aesofts.com/
+I also building side projects, check out my personal website for more projects & experiences informations : https://aesofts.com/ <br/>
 Nexroo AI : https://nexroo.ai : From automation workflows to real products
 
 I'm currently focusing on developing my cloud and AI skills, <br/>
