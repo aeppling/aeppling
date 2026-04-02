@@ -4,7 +4,7 @@ I've been learning and developing applications, games, and web solutions for 5 y
 
 <br/>
 
-💻 I'm currently doing a work-study program at 4urcloud (company) and SUPINFO (school), where I'm helping to develop Cloud solutions, including the Kexa project. ☁️🚀
+💻 I'm currently doing a work-study program at 4urcloud (company), MANORGA (service) , SUPINFO (school), where I'm helping to develop Cloud and AI solutions, including Kexa and RTK projects. ☁️🚀
 <br/>
 <br/>
 
