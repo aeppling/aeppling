@@ -8,15 +8,15 @@ I've been learning and developing applications, games, and web solutions for 5 y
 <br/>
 <br/>
 
+I also building side projects, check out my personal website for more projects & experiences informations : https://aesofts.com/ <br/>
+Nexroo AI : https://nexroo.ai 
+
 4urcloud : https://github.com/4urcloud
 <br/>
 Kexa project : https://github.com/kexa-io/Kexa
 <br/>
-4urcloud website i made : https://www.4urcloud.eu/#/
+4urcloud web : https://www.4urcloud.eu/#/
 <br/>
-
-I also building side projects, check out my personal website for more projects & experiences informations : https://aesofts.com/ <br/>
-Nexroo AI : https://nexroo.ai : From automation workflows to real products
 
 I'm currently focusing on developing my cloud and AI skills, <br/>
 but I'm always on the lookout for opportunities to work on interesting projects. 🔭🌐
