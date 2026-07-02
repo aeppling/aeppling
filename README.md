@@ -10,8 +10,8 @@ I've been learning and developing applications, games, and web solutions for 5 y
 
 I also building side projects, check out my personal website for more projects & experiences informations : https://aesofts.com/ <br/>
 Nexroo AI : https://nexroo.ai 
+RTK AI Labs : https://www.rtk-ai.app/
 
-4urcloud : https://github.com/4urcloud
 <br/>
 Kexa project : https://github.com/kexa-io/Kexa
 <br/>
